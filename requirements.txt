@@ -4,3 +4,6 @@ itsdangerous
 Jinja2
 MarkupSafe
 Werkzeug
+SQLAlchemy
+psycopg2
+flask_sqlalchemy
